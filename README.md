@@ -5,4 +5,5 @@ You can see utils/options.py to view detailed parameters and their interpretatio
 
 A simple example:
 You can run in terminal with code
-'python main_fed.py --iid --epochs 40'
+`<div>python main_fed.py --iid --epochs 40</div>`
+
