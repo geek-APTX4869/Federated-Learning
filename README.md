@@ -1,7 +1,7 @@
 # Federated-Learning
 
 Simulation of federated learning.  
-You can see utils/options.py to view detailed parameters and their interpretations.  
+You can see utils/options.py to view detailed parameters and their interpretations.Since there is no optimization, it is time-consuming when there are more users selected.      
 ## Requirements  
 python>=3.6  
 pytorch>=0.5  
